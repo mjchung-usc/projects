@@ -1,10 +1,7 @@
 /*******************************************************************************
- * CS 103 Twenty-One (Blackjack) PA
+ *(Blackjack)
  * Name: Michele Chung
- * USC email: mjchung@usc.edu
- * Comments (you want us to know):
- *
- *
+ * Email: mjchung@usc.edu
  ******************************************************************************/
 
 // Add other #includes if you need
